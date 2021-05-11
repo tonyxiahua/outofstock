@@ -1,0 +1,6 @@
+{
+  "account_sid": "TWILIO ACCOUNT SID",
+  "auth_token": "GENERATED AUTH TOKEN",
+  "from": "SENDER NUMBER",
+  "to": "RECEIVER NUMBER"
+}
