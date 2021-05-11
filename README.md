@@ -7,6 +7,6 @@ A relatively small group of apparel lovers and "hypebeasts" have been both victi
 
 # SET UP:
 
-##N otifcations: There are several providers compatible with this tracker. You may choose whichever you prefer to be notified from. Templates of said providers are provided.
+## Notifcations: There are several providers compatible with this tracker. You may choose whichever you prefer to be notified from. Templates of said providers are provided.
 
 ## Config: The first portion of this file contains the user's information for autofill during checkout. Be noted that this file will be encrypted in future revisions. The second half of this file are the links to which you want the tracker to keep an eye on. Best Buy, B&H, Newegg, Amazon, Adorama, Asus, were tested to work.
