@@ -1,7 +1,7 @@
 # outofstock README
 ## "Why is the rum always gone?!"
 
-A relatively small group of apparel lovers and "hypebeasts" have been both victims and instigators of "bots" for a few years before 2020. It wasn't until the Fall of 2020 (no pun intended), that the mainstream has also experienced being beaten to the punch by these bots. The idea here is to democratize the bot until a better solution is found by the specific etailers targetted by these bots.
+A relatively small group of apparel lovers and "hypebeasts" have been both victims and instigators of "bots" for a few years before 2020. It wasn't until the Fall of 2020 (no pun intended), that the mainstream has also experienced being beaten to the punch by these bots. The idea here is to democratize the bot until a better solution is found by the specific etailers targetted by these bots. 
 
 # DISCLAIMER: 
 This is not intended for commercial use and can potentially cause an etailer web server to block your incoming traffic. I am not responsible for your usage of this software.
