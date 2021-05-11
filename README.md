@@ -7,7 +7,7 @@ A relatively small group of apparel lovers and "hypebeasts" have been both victi
 
 # SET UP
 
-## * Notifcations: 
+##* Notifcations: 
 ** There are several providers compatible with this tracker. You may choose whichever you prefer to be notified from. Templates of said providers are provided.
 
 ## * Config: 
