@@ -14,3 +14,8 @@ This is not intended for commercial use and can potentially cause an etailer web
 ## Config: 
 * The first portion of this file contains the user's information for autofill during checkout. Be noted that this file will be encrypted in future revisions. 
 * The second half of this file are the links to which you want the tracker to keep an eye on. Best Buy, B&H, Newegg, Amazon, Adorama, Asus, were tested to work.
+
+## Example run output
+* The program will run in the background, checks throughout the items of interested and notifies the user when any of said items come in stock.
+
+![output](https://i.imgur.com/ZfCbEcu.png?raw=true)
