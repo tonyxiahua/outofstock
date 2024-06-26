@@ -9,7 +9,7 @@ import threading
 import time
 import random
 import subprocess
-import win32clipboard
+#import win32clipboard
 
 
 def delay(min:int = 15, max:int =30):
@@ -22,16 +22,16 @@ def delay(min:int = 15, max:int =30):
 #    win32clipboard.CloseClipboard()
 #    subprocess.call(['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe',"callme.ahk"])
 
-def instockCall(stocklist:list):
-    win32clipboard.OpenClipboard()
-    win32clipboard.EmptyClipboard()
-    win32clipboard.SetClipboardText("\n\n".join(stocklist))
-    win32clipboard.CloseClipboard()
-    notification_handler = NotificationHandler()
-    notification_handler.urgent_call("\n\n".join(stocklist))
-    #subprocess.call(['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe',"callne.ahk"])
+# def instockCall(stocklist:list):
+#     win32clipboard.OpenClipboard()
+#     win32clipboard.EmptyClipboard()
+#     win32clipboard.SetClipboardText("\n\n".join(stocklist))
+#     win32clipboard.CloseClipboard()
+#     notification_handler = NotificationHandler()
+#     notification_handler.urgent_call("\n\n".join(stocklist))
+#     #subprocess.call(['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe',"callne.ahk"])
 
-def brokenWebsite(textThis:list):
+# def brokenWebsite(textThis:list):
     #win32clipboard.OpenClipboard()
     #win32clipboard.EmptyClipboard()
     #win32clipboard.SetClipboardText("\n\n".join(textThis))

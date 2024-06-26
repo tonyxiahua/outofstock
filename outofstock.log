@@ -1,0 +1,18 @@
+DEBUG: "2024-06-24 13:06:06,900 - Initializing twilio handler
+DEBUG: "2024-06-24 13:06:06,900 - No Twilio creds found.
+DEBUG: "2024-06-24 13:06:06,900 - Initializing discord handler
+DEBUG: "2024-06-24 13:06:06,900 - No Discord creds found.
+DEBUG: "2024-06-24 13:06:06,900 - Initializing telegram handler
+DEBUG: "2024-06-24 13:06:06,900 - No Telegram config found.
+DEBUG: "2024-06-24 13:06:08,761 - Initializing twilio handler
+DEBUG: "2024-06-24 13:06:08,761 - No Twilio creds found.
+DEBUG: "2024-06-24 13:06:08,761 - Initializing discord handler
+DEBUG: "2024-06-24 13:06:08,761 - No Discord creds found.
+DEBUG: "2024-06-24 13:06:08,762 - Initializing telegram handler
+DEBUG: "2024-06-24 13:06:08,762 - No Telegram config found.
+DEBUG: "2024-06-24 13:06:26,329 - Initializing twilio handler
+DEBUG: "2024-06-24 13:06:26,330 - No Twilio creds found.
+DEBUG: "2024-06-24 13:06:26,330 - Initializing discord handler
+DEBUG: "2024-06-24 13:06:26,330 - No Discord creds found.
+DEBUG: "2024-06-24 13:06:26,330 - Initializing telegram handler
+DEBUG: "2024-06-24 13:06:26,330 - No Telegram config found.
